@@ -1,16 +1,5 @@
 {
   "version": 2,
-  "name": "bronx-locked-api",
-  "builds": [
-    {
-      "src": "api/index.py",
-      "use": "@vercel/python"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "api/index.py"
-    }
-  ]
+  "builds": [{ "src": "api/number.js", "use": "@vercel/node" }],
+  "routes": [{ "src": "/(.*)", "dest": "api/number.js" }]
 }
