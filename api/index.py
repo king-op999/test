@@ -1,3 +1,196 @@
-# 🔐 BRONX ULTRA LOCKED API
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]))
-exec((_)(b'=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'))
+// ============================================
+// 🔐 BRONX NUMBER OSINT API – API URL LOCKED
+// your-app.vercel.app/number?key=demo&num=9876543210
+// ============================================
+const axios = require('axios');
+
+// ============ CONFIG ============
+// 🔐 Real API URL Base64 Encrypted (Hide karo)
+const REAL_API_ENCRYPTED = "aHR0cHM6Ly9vc2ludC1icm9ueC11bHRyYS0yLTAub25yZW5kZXIuY29tL2FwaS9rZXktYnJvbngvbnVtYmVy";
+const CREDIT = "BRONX_ULTRA";
+const DEVELOPER = "BRONX_ULTRA";
+const VALID_KEYS = ["demo", "bronx", "free", "test", "demo-ha", "BRONXop"];
+
+// ============ BASE64 DECRYPT ============
+function getRealAPI() {
+    // Base64 decode karo → real URL
+    return Buffer.from(REAL_API_ENCRYPTED, 'base64').toString('utf8');
+}
+
+// ============ HELPERS ============
+function cleanResponse(data, queryNum) {
+    let cleaned = { ...data };
+    delete cleaned.credit;
+    delete cleaned.owner;
+    delete cleaned.by;
+    delete cleaned.channel;
+    delete cleaned.api_by;
+    delete cleaned.key_note;
+    delete cleaned.response_time_ms;
+    delete cleaned.cached;
+    delete cleaned.cached_at;
+    
+    cleaned.query = queryNum;
+    cleaned.credit = CREDIT;
+    cleaned.developer = DEVELOPER;
+    cleaned.powered_by = "BRONX ULTRA API";
+    cleaned.note = "This API is created by BRONX_ULTRA";
+    
+    return cleaned;
+}
+
+// ============ MAIN API HANDLER ============
+module.exports = async (req, res) => {
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
+    res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+    
+    if (req.method === 'OPTIONS') return res.status(200).end();
+
+    const url = new URL(req.url, `http://${req.headers.host}`);
+    const path = url.pathname;
+    const params = url.searchParams;
+
+    // ============ HOME PAGE ============
+    if (path === '/' || path === '') {
+        return res.send(`<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>🔐 BRONX LOCKED API</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        *{margin:0;padding:0;box-sizing:border-box}
+        body{background:#000a14;color:#d0d8f0;font-family:'Rajdhani',sans-serif;min-height:100vh;display:flex;justify-content:center;align-items:center;padding:20px}
+        body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellipse at 50% 0%,rgba(0,150,255,.06),transparent 60%),radial-gradient(ellipse at 80% 100%,rgba(139,0,255,.04),transparent 60%);pointer-events:none;z-index:0}
+        .card{background:rgba(5,15,35,.9);border:1px solid rgba(0,150,255,.1);border-radius:20px;padding:40px;max-width:650px;width:100%;text-align:center;position:relative;z-index:1;backdrop-filter:blur(20px)}
+        h1{font-family:'Orbitron',sans-serif;font-size:26px;background:linear-gradient(90deg,#0096ff,#00d4ff,#8b00ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:10px}
+        .badge{display:inline-block;background:rgba(0,255,136,.06);color:#00ff88;padding:4px 14px;border-radius:20px;font-size:10px;border:1px solid rgba(0,255,136,.12);margin:4px}
+        .section{background:rgba(0,0,0,.5);border:1px solid rgba(0,150,255,.08);border-radius:12px;padding:16px;margin:14px 0;text-align:left}
+        code{color:#00ff88;font-family:monospace;font-size:11px;word-break:break-all;display:block;margin:6px 0;background:rgba(0,0,0,.3);padding:8px;border-radius:6px}
+        .param{color:#ffb400;font-size:10px;margin:4px 0}
+        input,textarea{width:100%;padding:10px;background:rgba(0,0,0,.5);border:1px solid rgba(0,150,255,.08);border-radius:10px;color:#fff;font-size:13px;outline:none;margin:6px 0;font-family:'Rajdhani',sans-serif;resize:vertical}
+        input:focus,textarea:focus{border-color:#0096ff}
+        button{width:100%;padding:12px;background:linear-gradient(135deg,#0096ff,#0066cc);color:#fff;border:none;border-radius:10px;font-weight:700;cursor:pointer;font-family:'Orbitron',sans-serif;margin:6px 0;transition:.3s}
+        button:hover{transform:scale(1.02);box-shadow:0 0 20px rgba(0,150,255,.2)}
+        button.green{background:linear-gradient(135deg,#00c853,#009624)}
+        .result{background:rgba(0,0,0,.5);border:1px solid rgba(0,255,136,.08);border-radius:10px;padding:14px;margin-top:12px;text-align:left;display:none;max-height:300px;overflow:auto}
+        .result.show{display:block}
+        .result pre{color:#00ff88;font-family:monospace;font-size:10px;white-space:pre-wrap}
+        .lock-icon{font-size:40px;animation:pulse 2s infinite}@keyframes pulse{0%,100%{opacity:1}50%{opacity:.5}}
+    </style>
+</head>
+<body>
+<div class="card">
+    <div class="lock-icon">🔐</div>
+    <h1>BRONX LOCKED API</h1>
+    <p style="color:#667;font-size:12px">Real API URL Encrypted • 100% Working</p>
+    <div style="margin:10px 0">
+        <span class="badge">🔐 Protected</span>
+        <span class="badge">📱 Number</span>
+        <span class="badge">⚡ Fast</span>
+    </div>
+    
+    <div class="section">
+        <p style="color:#0096ff;font-weight:700">🔗 API ENDPOINT</p>
+        <code>GET /number?key=demo&num=9876543210</code>
+        <p class="param">Simple call with API key</p>
+    </div>
+    
+    <div class="section">
+        <p style="color:#00ff88;font-weight:700">🔍 QUICK TEST</p>
+        <input type="text" id="numInput" placeholder="Enter phone number (e.g., 9876543210)">
+        <button onclick="testAPI()">🔍 LOOKUP</button>
+    </div>
+    
+    <div class="result" id="result">
+        <pre id="resultData"></pre>
+    </div>
+    
+    <p style="color:#667;font-size:10px;margin-top:14px">Created by BRONX_ULTRA</p>
+</div>
+<script>
+async function testAPI(){
+    var num = document.getElementById('numInput').value.trim();
+    if(!num) return alert('Enter number!');
+    
+    var resultDiv = document.getElementById('result');
+    var resultData = document.getElementById('resultData');
+    resultDiv.classList.add('show');
+    resultData.style.color = '#ffb400';
+    resultData.textContent = '🔍 Searching...';
+    
+    try {
+        var resp = await fetch('/number?key=demo&num=' + encodeURIComponent(num));
+        var data = await resp.json();
+        resultData.style.color = '#00ff88';
+        resultData.textContent = JSON.stringify(data, null, 2);
+    } catch(e) {
+        resultData.style.color = '#ff3366';
+        resultData.textContent = '❌ Error: ' + e.message;
+    }
+}
+</script>
+</body></html>`);
+    }
+
+    // ============ NUMBER API ENDPOINT ============
+    if (path === '/number' || path === '/api/number') {
+        const key = params.get('key') || '';
+        const num = params.get('num') || params.get('number') || '';
+
+        if (!key || !VALID_KEYS.includes(key)) {
+            return res.status(403).json({
+                status: "error",
+                message: `Invalid key. Valid: ${VALID_KEYS.join(', ')}`,
+                credit: CREDIT
+            });
+        }
+
+        if (!num) {
+            return res.status(400).json({
+                status: "error",
+                message: "Missing number. Use: /number?key=demo&num=9876543210",
+                credit: CREDIT
+            });
+        }
+
+        try {
+            // ✅ Decrypt real API URL
+            const REAL_API = getRealAPI();
+            const realUrl = `${REAL_API}?key=BRONX_GOD_TIER_V100&num=${encodeURIComponent(num)}`;
+            
+            const response = await axios.get(realUrl, { timeout: 30000, headers: { 'User-Agent': 'BRONX-API/1.0' } });
+            const result = cleanResponse(response.data, num);
+            return res.json(result);
+        } catch (error) {
+            return res.status(500).json({
+                status: "error",
+                message: "API unavailable. Try again.",
+                credit: CREDIT
+            });
+        }
+    }
+
+    // ============ TEST ENDPOINT ============
+    if (path === '/test' || path === '/api/test') {
+        return res.json({
+            status: "✅ ONLINE",
+            api: "BRONX NUMBER OSINT (API Locked)",
+            endpoint: "/number?key=demo&num=9876543210",
+            valid_keys: VALID_KEYS,
+            credit: CREDIT,
+            developer: DEVELOPER,
+            note: "Real API URL is Base64 encrypted inside code"
+        });
+    }
+
+    // ============ 404 ============
+    return res.status(404).json({
+        status: "error",
+        message: "Not found",
+        home: "/",
+        test: "/test",
+        credit: CREDIT
+    });
+};
